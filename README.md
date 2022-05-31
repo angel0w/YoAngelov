@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yoan</h1>
-<h3 align="center">Technology enthusiast. I'm all about programming, getting familiar with new technologies.I want to gain experience in Front - End development.</h3>
+<h3 align="center">Technology enthusiast. I'm all about programming, getting familiar with new technologies. I want to gain experience in Front - End development.</h3>
 
 - 🌱 I’m currently studing **JavaScript at SoftUni.**
 
