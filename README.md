@@ -15,3 +15,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/yoan-angelov-047430226/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+ 
+
+
+![](https://komarev.com/ghpvc/?username=your-github-angel0w&color=green&style=flat)
