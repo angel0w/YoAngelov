@@ -10,7 +10,7 @@
 
 
 <h3  align="left">
-  🌱 I’m currently studing JavaScript Fundamentals at SoftUni.
+  🌱 I’m currently studing JavaScript at SoftUni.
 </h>
 
 
