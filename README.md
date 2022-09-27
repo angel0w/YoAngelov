@@ -28,9 +28,14 @@
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angel0w&theme=tokyonight)](https://git.io/streak-stats)
 
-
-## Connect with me:
-<p align="left">
- <a href = "https://www.linkedin.com/in/yoan-angelov-047430226/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
  
+ 
+ 
+ 
+ ### 🤝🏻  &nbsp;Connect with Me
+
+<a href="https://www.linkedin.com/in/yoan-angelov-047430226/"><img src="https://img.shields.io/badge/-Yoan%20Angelov-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:yoangelow@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-yoangelow@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+
+
 
