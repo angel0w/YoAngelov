@@ -32,7 +32,7 @@
  
  
  
- ### 🤝🏻  &nbsp;Connect with Me
+ ### 🤝🏻  &nbsp;Connect with Me:
 
 <a href="https://www.linkedin.com/in/yoan-angelov-047430226/"><img src="https://img.shields.io/badge/-Yoan%20Angelov-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:yoan.angelov94@gmail.com"><img src="https://img.shields.io/badge/-yoan.angelov94@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
