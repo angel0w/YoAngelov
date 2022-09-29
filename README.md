@@ -6,12 +6,13 @@
 <h2 align="center">Hi 👋, I'm Yoan, technology enthusiast. I'm all about programming, getting familiar with new technologies. I want to gain experience in Front - End development.
  </h>
 
-
-
-
 <h3  align="left">
   🌱 I’m currently studing JavaScript at SoftUni.
 </h>
+
+</br>
+</br>
+</br>
 
 
 <h3 align="left">⚙ Languages and Tools:</h3>
@@ -28,10 +29,6 @@
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angel0w&theme=tokyonight)](https://git.io/streak-stats)
 
- 
- 
- 
- 
  ### 🤝🏻  &nbsp;Connect with Me:
 
 <a href="https://www.linkedin.com/in/yoan-angelov-047430226/"><img src="https://img.shields.io/badge/-Yoan%20Angelov-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
